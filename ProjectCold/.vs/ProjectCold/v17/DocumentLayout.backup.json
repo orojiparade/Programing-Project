@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uC2E4\uACFC\uC81C\uB85C\uB2C8\uBAA8\\ProjectCold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F69351-4288-4FA9-A473-74226C39EB22}|ProjectCold.vcxproj|C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uC2E4\uACFC\uC81C\uB85C\uB2C8\uBAA8\\ProjectCold\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89F69351-4288-4FA9-A473-74226C39EB22}|ProjectCold.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uC2E4\uACFC\uC81C\uB85C\uB2C8\uBAA8\\ProjectCold\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uC2E4\uACFC\uC81C\uB85C\uB2C8\uBAA8\\ProjectCold\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-10T11:20:35.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

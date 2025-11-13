@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\82105\OneDrive\바탕 화면\프실과제로니모\ProjectCold\main.c(6,7): warning C4101: 'file_id' :참조되지 않은 지역 변수입니다.
+C:\Users\82105\OneDrive\바탕 화면\프실과제로니모\ProjectCold\main.c(6,21): warning C4101: 'file_pw' :참조되지 않은 지역 변수입니다.
+  ProjectCold.vcxproj -> C:\Users\82105\OneDrive\바탕 화면\프실과제로니모\ProjectCold\x64\Debug\ProjectCold.exe
